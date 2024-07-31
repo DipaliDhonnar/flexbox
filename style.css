@@ -1,0 +1,90 @@
+.text_card1{
+    display: flex;
+    flex-direction:row;
+    background-color:burlywood;
+    justify-content:start;
+    margin: 20px;
+}
+.text_card2{
+    display: flex;
+    flex-direction:row;
+    background-color:burlywood;
+    justify-content:end;
+    margin: 20px;
+}
+.parent_card{
+    display: flex;
+    flex-direction:row;
+    background-color:burlywood;
+    justify-content:center;
+    margin: 20px;
+}
+.parent{
+        display: flex;
+        flex-direction:row;
+        background-color:burlywood;
+        justify-content: space-around;
+        margin: 20px;
+}
+.main_card{
+    display: flex;
+    flex-direction:row;
+    background-color:burlywood;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+.text_card{
+    display: flex;
+    flex-direction:row;
+    background-color:burlywood;
+    justify-content: space-between;
+    margin: 20px;
+}
+.card{
+    border:2px solid black;
+    border-radius: 10px;
+    width: 200px;
+    margin: 10px;
+    background-color: white;
+}
+.img{
+    border: 1px solid;
+    border-radius: 5px 5px 0px 0px;
+    width: 99%;
+    height: 100px;
+  
+
+}
+.text{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+
+}
+.text_card4{
+    display: flex;
+    flex-direction:row;
+    background-color:burlywood;
+    justify-content:space-around;
+    margin: 20px;
+    height: 200px;
+    align-items: start;
+}
+.text_card5{
+    display: flex;
+    flex-direction:row;
+    background-color:burlywood;
+    justify-content:space-around;
+    margin: 20px;
+    height: 200px;
+    align-items: end;
+}
+.text_card6{
+    display: flex;
+    flex-direction:row;
+    background-color:burlywood;
+    justify-content:space-around;
+    margin: 20px;
+    height: 200px;
+    align-items: center;
+}
